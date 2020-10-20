@@ -10,21 +10,21 @@
 
 <a href="MSTeams:/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork">Valo Teamwork</a>
 
-### Markdown
+### Markdown - Correct ones
 
-[Elio](msteams:/l/chat/0/0?users=elio@valointranet.com)
+[Elio](https://teams.microsoft.com/l/chat/0/0?users=elio@valointranet.com)
 
-[Joonas](msteams:/l/chat/0/0?users=joonas@valointranet.com)
+[Joonas](https://teams.microsoft.com/l/chat/0/0?users=joonas@valointranet.com)
 
-[Joonas V2](https://teams.microsoft.com/l/chat/0/0?users=joonas@valointranet.com)
+[Valo Ideas](https://teams.microsoft.com/_#/apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard)
 
-[Valo Ideas](msteams:/apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard)
+[Valo Teamwork](https://teams.microsoft.com/_#/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
 
-[Valo Teamwork](msteams:/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
+[Calendar](https://teams.microsoft.com/_#/calendar)
 
-[Calendar](msteams:/calendar)
+[Calendar V2](https://teams.microsoft.com/_#/calendarv2)
 
-[Calendar V2](msteams:/calendarv2)
+[General Channel](https://teams.microsoft.com/_#/conversations/General?threadId=19:9e736ab5d20b436bbfa18e71be40a61c@thread.skype&ctx=channel)
 
 ## Change on GitHub
 
