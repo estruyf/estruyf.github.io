@@ -12,13 +12,13 @@
 
 ### Markdown
 
-[MSTeams:/l/chat/0/0?users=elio@valointranet.com](Elio)
+[Elio](MSTeams:/l/chat/0/0?users=elio@valointranet.com)
 
-[MSTeams:/l/chat/0/0?users=joonas@valointranet.com](Joonas)
+[Joonas](MSTeams:/l/chat/0/0?users=joonas@valointranet.com)
 
-[MSTeams:/apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard](Valo Ideas)
+[Valo Idas](MSTeams:/apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard)
 
-[MSTeams:/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork](Valo Teamwork)
+[Valo Teamwork](MSTeams:/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
 
 ## Change on GitHub
 
