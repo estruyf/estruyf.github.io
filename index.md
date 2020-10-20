@@ -12,17 +12,17 @@
 
 ### Markdown
 
-[Elio](MSTeams://l/chat/0/0?users=elio@valointranet.com)
+[Elio](msteams:/l/chat/0/0?users=elio@valointranet.com)
 
-[Joonas](MSTeams://l/chat/0/0?users=joonas@valointranet.com)
+[Joonas](msteams:/l/chat/0/0?users=joonas@valointranet.com)
 
-[Valo Idas](MSTeams://apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard)
+[Valo Ideas](msteams:/apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard)
 
-[Valo Teamwork](MSTeams://apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
+[Valo Teamwork](msteams:/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
 
-[Calendar](MSTeams://calendar)
+[Calendar](msteams:/calendar)
 
-[Calendar V2](MSTeams://calendarv2)
+[Calendar V2](msteams:/calendarv2)
 
 ## Change on GitHub
 
