@@ -10,7 +10,7 @@
 
 [Valo Teamwork - 1](https://teams.microsoft.com/l/app/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120)
 
-[Valo Teamwork - 2](https://teams.microsoft.com/l/app/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
+[Valo Teamwork - 3](https://teams.microsoft.com/l/entity/app/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120)
 
 [Calendar - 1](https://teams.microsoft.com/l/calendar)
 
