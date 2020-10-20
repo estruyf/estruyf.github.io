@@ -2,6 +2,8 @@
 
 ### Markdown
 
+[Deeplinking test](https://teams.microsoft.com/l/entity/155a84a7-e3c2-4738-b88c-617ff56db27c/155a84a7-e3c2-4738-b88c-617ff56db27c?label=Vi32)
+
 [Elio - 1](https://teams.microsoft.com/l/chat/0/0?users=elio@valointranet.com)
 
 [Joonas - 1](https://teams.microsoft.com/l/chat/0/0?users=joonas@valointranet.com)
