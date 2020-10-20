@@ -16,6 +16,8 @@
 
 [Joonas](msteams:/l/chat/0/0?users=joonas@valointranet.com)
 
+[Joonas V2](https://teams.microsoft.com/l/chat/0/0?users=joonas@valointranet.com)
+
 [Valo Ideas](msteams:/apps/e0105209-1d3e-47ee-8d56-e1cc5f60b3a7/sections/com.valo.ideas.dashboard)
 
 [Valo Teamwork](msteams:/apps/1bf4f70f-a5e3-4d46-919a-c8d7e19cb120/sections/Teamwork)
